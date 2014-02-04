@@ -2,7 +2,7 @@
 
 include_once('examDAO.php');
 
-define('QUESTION_NUMBER', 3);
+define('QUESTION_NUMBER', 10);
 
 $q_number = (isset($_POST['q_number'])) 
 		? $_POST['q_number'] + 1
