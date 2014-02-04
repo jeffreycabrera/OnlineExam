@@ -1,0 +1,36 @@
+#emailHtml{
+   color: red;
+}
+
+#confirmPass{
+   color:red;
+}
+
+#email, #password,
+#firstname, #lastname,
+#email_input, #password1,
+#confirm{
+   height: 40px;
+   width: 270px;
+}
+
+.btn{
+   height: 40px;
+
+}
+
+#header{
+   background-color: black;
+   height: 40px;
+   } 
+
+#line{
+   line-height: 50px;
+}
+
+#formBorder{
+	border-width: 2px;
+	border-radius: 10px;
+	border: 1px;
+}
+
